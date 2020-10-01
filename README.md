@@ -12,12 +12,12 @@ Emotions have 2 intensities: **strong** and **normal** (except for the **neutral
 ![dataset2](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/2.png) <br />
 ## PREPROCESSING
 Signals are loaded with sample rate of 48kHz and cut off to be in the range of [0.5, 3] seconds. If the signal is shorter than 3s it is padded with zeros.<br />
-**MEL spectrogram** is calculated and used as an input for the models (for the 1st and 2nd model the spectrogram is splitted into 7 chunks).<br />
+  **MEL spectrogram** is calculated and used as an input for the models (for the 1st and 2nd model the spectrogram is splitted into 7 chunks).<br />
 Example of the MEL spectrogram:<br />
 ![spectrogram](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/4.png) <br />
-Dataset is splitted into train, validation and test sets, with following percentage: (80,10,10)%.<br />
-**Data augmentation** is performed by adding [Additive White Gaussian Noise](https://en.wikipedia.org/wiki/Additive_white_Gaussian_noise) (with SNR in range [15,30]) on the original signal. This enormously improved accuracy and removed overfitting.<br />
-Datasets are scaled with **Standard Scaler**.<br />
+  Dataset is splitted into train, validation and test sets, with following percentage: (80,10,10)%.<br />
+  **Data augmentation** is performed by adding [Additive White Gaussian Noise](https://en.wikipedia.org/wiki/Additive_white_Gaussian_noise) (with SNR in range [15,30]) on the original signal. This enormously improved accuracy and removed overfitting.<br />
+  Datasets are scaled with **Standard Scaler**.<br />
 
 
 
