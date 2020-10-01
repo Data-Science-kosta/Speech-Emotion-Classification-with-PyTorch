@@ -3,7 +3,7 @@ This repository contains PyTorch implementation of 4 different models for classi
 1. Stacked Time Distributed 2D CNN - LSTM
 2. Stacked Time Distributed 2D CNN - Bidirectional LSTM with attention
 3. Parallel 2D CNN - Bidirectional LSTM with attention
-4. Parallel 2D CNN - Transformer Enkoder
+4. Parallel 2D CNN - Transformer Encoder
 ## DATASET
 Models are trained on [RAVDESS Emotional Speech Audio](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio) dataset. It consits of 1440 speech audio-only files (16 bits, 48kHz, .wav).<br />
 Dataset is balanced:<br />
