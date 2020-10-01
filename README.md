@@ -23,7 +23,8 @@ Architectures for all 4 models are shown from left to right respectively:<br />
 <br />
 ![spectrogram](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/100.png) <br />
 ## RESULTS 
-1. Model: <br />
+1. Model: 
+
 Confusion Matrix             |  Influence of Emotion intensity on correctness
 :-------------------------:|:-------------------------:
 ![KM1](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/KM%20model1.png)  |  ![EI1](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/EI%20model1.png)
