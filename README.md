@@ -20,6 +20,7 @@ Dataset is splitted into train, validation and test sets, with following percent
 Datasets are scaled with **Standard Scaler**.<br />
 ## MODELS
 Architectures for all 4 models are shown from left to right respectively:<br />
+<br />
 ![spectrogram](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/100.png) <br />
 
 
