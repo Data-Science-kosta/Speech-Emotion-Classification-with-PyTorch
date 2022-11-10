@@ -29,8 +29,6 @@ Accuracy: **94.02%**
 Confusion Matrix             |  Influence of Emotion intensity on correctness
 :-------------------------:|:-------------------------:
 ![KM1](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/KM%20model1.png)  |  ![EI1](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/EI%20model1.png)
-Losses before augmentation            |  Losses after augmentation
-![LO1](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/loss%20of%20model1.png)  |  ![L1](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/loss%20model1.png)
 
 **2. Model**: <br />
 Accuracy: **96.55%**
@@ -38,8 +36,6 @@ Accuracy: **96.55%**
 Confusion Matrix             |  Influence of Emotion intensity on correctness
 :-------------------------:|:-------------------------:
 ![KM2](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/KM%20model2.png)  |  ![EI2](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/EI%20model2.png)
-Losses before augmentation            |  Losses after augmentation
-![LO2](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/loss%20of%20model2.png)  |  ![L2](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/loss%20model2.png)
 
 **3. Model**: <br />
 Accuracy: **95.40%**
@@ -47,8 +43,6 @@ Accuracy: **95.40%**
 Confusion Matrix             |  Influence of Emotion intensity on correctness
 :-------------------------:|:-------------------------:
 ![KM3](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/KM%20model3.png)  |  ![EI3](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/EI%20model3.png)
-Losses before augmentation            |  Losses after augmentation
-![LO3](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/loss%20of%20model3.png)  |  ![L3](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/loss%20model3.png)
 
 **4. Model**: <br />
 Accuracy: **96.78%**
@@ -56,8 +50,6 @@ Accuracy: **96.78%**
 Confusion Matrix             |  Influence of Emotion intensity on correctness
 :-------------------------:|:-------------------------:
 ![KM4](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/KM%20model4.png)  |  ![EI4](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/EI%20model4.png)
-Losses before augmentation            |  Losses after augmentation
-![LO4](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/loss%20of%20model4.png)  |  ![L4](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch/blob/master/garbage/loss%20model4.png)
 
 
 
